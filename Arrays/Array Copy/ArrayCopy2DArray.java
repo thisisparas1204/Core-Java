@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ArrayCopy2D {
+public class ArrayCopy2DArray {
     public static void main(String[] args) {
         
         int[][] source = {
