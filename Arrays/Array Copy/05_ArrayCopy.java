@@ -1,7 +1,7 @@
 // To use toString() and copyOfRange()
 import java.util.Arrays;
 
-public class ArrayCopy5 {
+public class ArrayCopy {
     public static void main(String[] args) {
       
         int[] source = {2, 3, 12, 4, 12, -2};
