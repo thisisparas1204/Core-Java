@@ -1,5 +1,5 @@
 // Create an array and access the elements of an array
-public class Array1 {
+public class Array {
     public static void main(String[] args) {
         
         // Declare & allocate an array
