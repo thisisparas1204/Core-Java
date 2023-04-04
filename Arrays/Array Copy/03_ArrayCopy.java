@@ -1,7 +1,7 @@
 // Copying Arrays Using System.arraycopy() 
 import java.util.Arrays;
 
-public class ArrayCopy3 {
+public class ArrayCopy {
     public static void main(String[] args) {
         
         int[] data = new int[] {10, 20, 30};
