@@ -1,5 +1,5 @@
 // Compute Sum and Average of Array Elements
-public class Array3 {
+public class SumOfElements {
     public static void main(String[] args) {
         
         int[] numbers = {2, -9, 0, 5, 12, -25, 22, 9, 8, 12};
