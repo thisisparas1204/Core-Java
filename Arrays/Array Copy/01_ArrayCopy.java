@@ -1,7 +1,7 @@
 // Using Looping Construct to Copy Arrays
 import java.util.Arrays;
 
-public class ArrayCopy1 {
+public class ArrayCopy {
     public static void main(String[] args) {
         
         int [] source = {1, 2, 3, 4, 5, 6};
