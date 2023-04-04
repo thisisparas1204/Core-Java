@@ -1,7 +1,7 @@
 // Copying Arrays Using copyOf()
 import java.util.Arrays;
 
-public class ArrayCopy4 {
+public class ArrayCopy {
     public static void main(String[] args) {
         
         int[] data1 = new int[] {10, 20, 30};
