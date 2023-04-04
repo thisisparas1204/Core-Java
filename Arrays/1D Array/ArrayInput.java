@@ -1,7 +1,7 @@
 // Taking user input in an array.
 import java.util.Scanner;
 
-public class Array2 {
+public class ArrayInput {
     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);
