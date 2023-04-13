@@ -4,7 +4,12 @@ public class FindIndex {
     public static void findIndex(int[] arr, int n) {
 
         boolean isFound = false;
-
+        
+        if (arr == null) {
+            System.out.println("This array is empty.");
+            return;
+        }
+        
         for (int i = 0; i < arr.length; ++i) {
             if (arr[i] == n) {
                 isFound = true;
